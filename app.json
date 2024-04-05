@@ -8,6 +8,17 @@
       "expo-router"
     ],
     "name": "GoogleForms",
-    "slug": "GoogleForms"
+    "slug": "GoogleForms",
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "940dc02b-0981-4f2e-962b-554e97e89315"
+      }
+    },
+    "android": {
+      "package": "com.hprasath935.GoogleForms"
+    }
   }
 }
